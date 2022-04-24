@@ -1,3 +1,5 @@
+*Instructions: See the SQL commands used to analyze the data in the attached Jupyter Notebook, as well as a Tableau dashboard representing the data linked below*
+
 # Food Deserts in Washington DC
 <b> This project analyzes the nature of food deserts, defined as areas with limited access to affordable and healthy food, along ward boundaries in Washington, DC. This project investigates the demographic variables of each ward, including income, race, and access to transportation and compares them to the layout of food resources available in each Ward. This should provide an overview as to the structural disparities at play driving the food inequity in the city.
 
